@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Mahabub Alahi, and I'm a Software and Blockchain Developer. I'm from Bangladesh, living in Dhaka, and currently working as a Full-time Blockchain and Software Engineer at Tero Labs. 
+
+:technologist: My Tech
+
+* **Web3** - `solidity` `hyperledger fabric`
+* **Backend** - `nodejs` `laravel` `python`
+* **Frontend** - `vue` `react` `bootstrap`
+* **Devops** - `docker` `nginx` `git` `heroku` `linux` `bash` `azure` `digitalocean`
+* **Database** - `mysql` `postgresql` `mongodb`
+* **Languages** - `javascript` `php` `python`
+
+### Things You Should Know
+- 🔭 I’m currently working on Blockchain Development(Solidity), Backend Development (Laravel, NodeJS)  
+- 🌱 I’m currently learning Solidity, Hyperledger Fabric, Node JS, Laravel 
+- 💬 Ask me about Blockchain and Backend Development 
+- 📫 How to reach me: mahabubalahi9531@gmail.com 
+
+
+
+
+
+
