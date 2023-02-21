@@ -22,7 +22,7 @@ My name is Mahabub Alahi, and I'm a Software and Blockchain Developer. I'm from 
 * **Web3** - `solidity` `hyperledger fabric`
 * **Backend** - `nodejs` `laravel` `fastapi`
 * **Frontend** - `vue` `react` `bootstrap`
-* **Devops** - `docker` `nginx` `git` `heroku` `linux` `bash` `azure` `digitalocean`
+* **Devops** - `docker` `nginx` `git` `heroku` `linux` `bash` `azure` `digitalocean` `aws`
 * **Database** - `mysql` `postgresql` `mongodb`
 * **Languages** - `javascript` `php` `python`
 
