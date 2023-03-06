@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mahabub Alahi, and I'm a Software and Blockchain Developer. I'm from Bangladesh, living in Dhaka, and currently working as a Full-time Blockchain and Software Engineer at Tero Labs. 
+My name is Mahabub Alahi, and I'm a Software and Blockchain Engineer. I'm from Bangladesh, living in Dhaka, and currently working as a Full-time Blockchain and Software Engineer at Tero Labs LLC. 
 
 :technologist: My Tech
 
